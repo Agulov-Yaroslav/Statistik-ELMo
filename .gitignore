@@ -1,0 +1,13 @@
+# Virtuelle Umgebung
+venv/
+.venv/
+
+# ELMo Modell-Dateien
+model/
+
+# PyCharm Konfiguration
+.idea/
+
+# Python Cache-Dateien
+__pycache__/
+*.py[cod]
