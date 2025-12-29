@@ -1,2 +1,5 @@
 simple-elmo
 tensorflow<=2.15.0
+nltk
+numpy
+scikit-learn

@@ -1,0 +1,25 @@
+match.n.01_1    1    a match flared , and he reached above his head to light a lantern which hung from a wire loop
+match.n.01_2    20    the waters lay muddy but placid , without a ripple of movement against the wheels ; there was not a match width of damp mark to show they were receding
+match.n.01_3    3    he found a match in his pocket and lit it
+match.n.01_4    4    curt snuffed out the match
+match.n.02_1    23    palmer , golf 's leading money winner in 1960 , and Snead will be saluted as the winning team in the Canada Cup matches last June in Dublin
+match.n.03_1    6    if someone were to drop a match in here , this place would go up like a haystack ´´
+match.n.04_1    2    when a match is found , an entry is made in the table of dictionary usage
+match.v.01_1    1    all matching surfaces should be checked frequently and mated on a cut and fit basis
+match.v.01_2    10    when , as in this case , the two forms match , the address * * f is saved to represent the occurrence * * f
+match.v.01_3    11    `` Of course , some of my color values do not match the old Master 's and the perspective is faulty but I believe it to be a fair copy ´´
+match.v.01_4    11    these two pieces of information for each dictionary form that is matched by a text form constitute the table of dictionary usage
+match.v.01_5    13    her uniform was of rich , raw silk , in a shade which matched her hair , skin , housepaint , and cats , and since she was so thin as to be almost shapeless , she rather resembled a frozen fish stick
+match.v.02_1    12    prior to and since 1960 the rest of the support allotment is matched at rates related to the fiscal capacity of the State , with a pivot of 40 % State ( or 60 % Federal ) participation in total program costs
+match.v.02_2    15    throughout the history of the program , state government expenditures in the aggregate have usually matched or exceeded the Federal expenditures , while local districts all together have spent more than either Federal or state governments
+match.v.02_3    16    as is the case with the allotment provisions for support of vocational rehabilitation services , the matching requirements are also based on a statutory formula
+match.v.02_4    17    the House communications subcommittee is expected to report out a good bill calling for the states to match federal funds
+match.v.03_1    10    the number of dictionary forms skipped since the last one matched is also saved
+match.v.03_2    11    more than 200 are expected at the autumn event which is matched in the spring
+match.v.03_3    11    pin right sides of pieces together , keeping edges even and matching rows or patterns
+match.v.03_4    2    each must match Wisman 's `` pie ´´ with the fragment that he carries with him
+match.v.03_5    21    the dictionary is a form dictionary , at least in the sense that complete forms are used as the basis for matching text occurrences with dictionary entries
+match.v.03_6    7    if each text form is marked when matched with a dictionary form , the text forms not contained in the dictionary can be identified when all dictionary forms have been read
+match.v.05_1    11    locate their positions in Fig. 7 and drill No. 43 to match the corresponding holes in the frame
+match.v.05_2    3    the singer simply matches the poem to a mode ; for example , the mode of bravery to this anonymous folk poem : `` They brought me news that Spring is in the plains And Ahmad 's blood the crimson tulip stains ; Go , tell his aged mother that her son Fought with a thousand foes , and he was one ´´
+match.v.05_3    35    the work had its beginning in 1938 with an eight bar musical strain to which Koehler set the words `` There "'ll" be no more work / There "'ll" be no more worry ´´ , matching the spiritual feeling of the jot
